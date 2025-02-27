@@ -1,0 +1,45 @@
+TODO - RogStock 2025
+
+- theme colour -> CSS
+- "window" menu/combobox -> application.openforms
+- main screen -> sidebar?
+- tabs?
+- option to show long desc on reports
+- tab order
+- form template <- data and form bindcontext
+- catch -> error messages
+- save -> update records dataset
+- stock TR- undo/delete dataset
+- test combobox text change
+- tooltips 
+- titles
+- textboxes same size as schema size where possible
+- min/max buttons
+- form open position
+- window style -> fixed/non adjustable size
+- form accept/cancel buttons
+- show in taskbar?
+- MDI?
+
+
+screens:
+- UOM maintenance
+- loc maintenance
+- lot maintenance
+- product family maintenance
+- vendors maintenance*
+- vednors tab in stock items form*
+- adjust quantity
+- transfer stock
+
+reports:
+- UOM
+- product family
+- stock items
+
+
+* for V2
+
+
+
+Note: screen 1280x720

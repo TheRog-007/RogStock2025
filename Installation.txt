@@ -1,0 +1,13 @@
+RogStock InstaLL
+================
+
+- Download files from LATEST GITHub branch
+- Install SQL Server
+- Install SQL Server Management Studio
+- Install SQL Reporting Services
+- Restore BAK file using SQL Server Management Studio
+- Install Visual Sutio Community if you do not already have Visual Studio
+- Compile!
+
+As the project advances, such as reports getting created these instructions will expand.
+
